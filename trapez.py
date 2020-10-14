@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt 
 from scipy import special
 import time
-test2
+
 # plot the function 
 x = np.linspace(-1.5, 1.5, 100)
 y = np.exp(-x**2)
